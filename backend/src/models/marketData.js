@@ -61,3 +61,6 @@ const marketDataSchema = new mongoose.Schema(
 );
 
 export default mongoose.model("MarketData", marketDataSchema);
+
+
+
